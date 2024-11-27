@@ -1,1 +1,2 @@
 # online-news-website
+Welcome to all-in-one news portal, where you can stay up-to-date with the latest updates across a variety of topics. Whether you're interested in educational insights, IPL cricket news, finance trends, or sports highlights, we've got you covered. Our easy-to-navigate interface includes dedicated sections for each category, and a convenient search bar to quickly find news that matters to you. Stay informed, stay ahead, with everything you need in one place!
